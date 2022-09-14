@@ -6,6 +6,7 @@ In this repo you will find our activity created at FHO,with 5 integrants:
   <li>Roberto Antunes de Souza Junior - 102489</li>
   <li>João Pedro Ramos SIlva - 110748</li> 
   <li>Patrick Lucas Ferreira - 110714</li> 
+  <li>Mateus Hypolito Silva - 109459</li> 
 </ul>
   
 <p align = "center">
