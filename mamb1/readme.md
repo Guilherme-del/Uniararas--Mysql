@@ -1,5 +1,5 @@
 # OS 13
-In this repo you will find our activity created at FHO,with 5 integrants:
+In this repo you will find our activity created at FHO,with 6 integrants:
 <ul>
   <li>Guilherme Cavenaghi - 109317</li>
   <li>Luis Rodrigo da Silva - 109506</li>
